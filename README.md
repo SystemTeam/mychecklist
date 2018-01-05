@@ -1,3 +1,3 @@
 # Checklist
 
-Create my checklist for important job
+Create checklist for important job
